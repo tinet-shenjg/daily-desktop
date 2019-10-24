@@ -23,7 +23,6 @@ while var < count:
     draw.text((2000, row),  str(var) + "." + title, font = font, fill = (255, 255, 255))
 bk_img = np.array(img_pil)
 
-## cv2.imshow("add_text",bk_img)
 cv2.waitKey()
-cv2.imwrite("add_text.jpg",bk_img)
+cv2.imwrite("background.jpg",bk_img)
 
