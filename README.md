@@ -21,4 +21,13 @@ draw.text((2000, 300),  date + " 计划", font = font, fill = (255, 255, 255))
 fontpath = "/System/Library/Fonts/PingFang.ttc"
 ```
 
-4. 执行 python3 work.py
+4. 执行
+```
+python3 desk.py
+请输入今日计划条数：3
+3
+请输入计划：写作文
+请输入计划：背单词
+请输入计划：撩妹子
+```
+5. 预览图
