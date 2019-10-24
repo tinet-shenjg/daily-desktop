@@ -31,3 +31,4 @@ python3 desk.py
 请输入计划：撩妹子
 ```
 5. 预览图
+![avatar](https://github.com/tinet-shenjg/daily-desktop/blob/master/background.jpg)
