@@ -33,3 +33,7 @@ python3 desk.py
 ```
 5. 预览图
 ![avatar](https://github.com/tinet-shenjg/daily-desktop/blob/master/background.jpg)
+6. 一键替换mac桌面背景
+```
+sh changeDeaktopImg.sh
+```
